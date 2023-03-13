@@ -12,14 +12,11 @@ Repositório onde apresentarei a customização do site construido durante a <st
 <br>
 
 <p align="center">
-  <video width="100%" autoplay controls>
-  <source src="./src/video/video.webm" type="video/webm">
-Your browser does not support the video tag.
-</video>
+  <img alt="Projeto interfacie" src="./src/imagens/projeto.jpeg" width="100%">
 </p>
 
 
->🟡 Projeto em construção
+>🟢 Projeto finalizado
 
 > <strong>Deixa uma estrelinha?🙏⭐</strong>
 
